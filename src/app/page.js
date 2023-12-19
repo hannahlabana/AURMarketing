@@ -70,7 +70,7 @@ export default function Home() {
       <div>
         <img src="/img/about.png"></img>
         <div className="bg-sky-950 h-80 w-full flex flex-col text-white justify-center px-56">
-          <p className="text-4xl font-bold mb-9 text-center">What We're All About</p>
+          <p className="text-4xl font-bold mb-9 text-center">What We&apos;re All About</p>
           <span className="text-center text-sm">
             AUR Marketing Corporation has been in the wholesale distribution for over 30 years. Specializing in food products, the company has been appointed as the exclusive distributor for a number of food products in the region. Current offerings include a variety of instant noodles and canned goods. Here at AUR Marketing Corporation, we offer the most competitive prices in the market for bulk buyers. We pride in keeping a high standard of service from order placing to delivery, ensuring that every customer is satisfied.
           </span>

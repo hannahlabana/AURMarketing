@@ -40,7 +40,7 @@ export default function Explore({}) {
             {
                 products.map((product, index) => {
                     return(
-                        <Item product={product} index={index}/>
+                        <Item product={product} index={index} key={index}/>
                     )
                 })
             }
