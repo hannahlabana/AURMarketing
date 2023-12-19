@@ -38,7 +38,7 @@ export default function CannedGoods() {
             {
                 products.map((product, index) => {
                     return(
-                        <Item product={product} index={index} key={index}/>
+                        <Item product={product} index={product.id} key={index}/>
                     )
                 })
             }
